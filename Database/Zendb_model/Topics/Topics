@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "665d846e9dd37069e0d5a88d"
+  },
+  "topicId": 1,
+  "topic": "RWD",
+  "topicDate": "2022-10-10"
+},
+{
+  "_id": {
+    "$oid": "665d846e9dd37069e0d5a88e"
+  },
+  "topicId": 2,
+  "topic": "Bootstrap",
+  "topicDate": "2022-10-11"
+},
+{
+  "_id": {
+    "$oid": "665d846e9dd37069e0d5a88f"
+  },
+  "topicId": 3,
+  "topic": "JS",
+  "topicDate": "2022-10-17"
+},
+{
+  "_id": {
+    "$oid": "665d846e9dd37069e0d5a890"
+  },
+  "topicId": 4,
+  "topic": "Async Programming",
+  "topicDate": "2022-10-18"
+},
+{
+  "_id": {
+    "$oid": "665d846e9dd37069e0d5a891"
+  },
+  "topicId": 5,
+  "topic": "React",
+  "topicDate": "2022-10-24"
+}]

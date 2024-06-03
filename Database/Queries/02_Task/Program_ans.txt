@@ -1,0 +1,38 @@
+[
+  {
+    _id: ObjectId("665d80d8e755cbced29812d6"),
+    userId: 2,
+    driveDate: '2022-10-20T00:00:00.000Z',
+    company: 'Wipro'
+  },
+  {
+    _id: ObjectId("665d80d8e755cbced29812d7"),
+    userId: 3,
+    driveDate: '2022-10-25T00:00:00.000Z',
+    company: 'Zoho'
+  },
+  {
+    _id: ObjectId("665d80d8e755cbced29812d8"),
+    userId: 2,
+    driveDate: '2022-10-27T00:00:00.000Z',
+    company: 'Amazon'
+  },
+  {
+    _id: ObjectId("665d80d8e755cbced29812db"),
+    userId: 2,
+    driveDate: '2022-10-20T00:00:00.000Z',
+    company: 'Wipro'
+  },
+  {
+    _id: ObjectId("665d80d8e755cbced29812dc"),
+    userId: 3,
+    driveDate: '2022-10-25T00:00:00.000Z',
+    company: 'Zoho'
+  },
+  {
+    _id: ObjectId("665d80d8e755cbced29812dd"),
+    userId: 2,
+    driveDate: '2022-10-27T00:00:00.000Z',
+    company: 'Amazon'
+  }
+]

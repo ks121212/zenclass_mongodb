@@ -1,0 +1,6 @@
+db.Company_Drives.find({
+  driveDate: {
+    $gte: '2022-10-15',
+    $lte: '2022-10-31'
+  }
+});

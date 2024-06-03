@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "665d8142e755cbced29812de"
+  },
+  "mentorId": 1,
+  "mentorName": "Manikandan Anbazhagan",
+  "mentorEmail": "manikandan@gmail.com",
+  "menteeCount": 17
+},
+{
+  "_id": {
+    "$oid": "665d8142e755cbced29812df"
+  },
+  "mentorId": 2,
+  "mentorName": "Deepika",
+  "mentorEmail": "deepika@gmail.com",
+  "menteeCount": 20
+}]
